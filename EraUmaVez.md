@@ -1,2 +1,5 @@
 # rodada 1 
 Era uma vez uma canguru chamada Sally que morava perto de uma árvore muito antiga, no coração de um bosque encantado. Sally era curiosa como nenhuma outra, sempre ouvindo os sussurros do vento e seguindo borboletas brilhantes até lugares desconhecidos.
+
+## rodada 2
+Um dia, após uma ótima noite de sono, Sally acordou e, para sua surpresa, o bosque estava silencioso. Ela não conseguia ver nenhuma borboleta ou qualquer outro animal, e saiu pulando em busca de encontrar alguém para entender o ocorrido. Ao chegar no Lago mágico que ficava perto de sua árvore, encontrou todos seus amigos reunidos, e mais alguém que ela não conhecia, um animal achatado e verde, com braços e pernas longos. Sally se aproximou de todos para entender o que ela estava vendo, pois se tratava de algo que ela nunca tinha visto antes. Após perguntar à sua amiga Brenda, uma capivara, tudo ficou claro. Pela primeira vez em sua vida, Sally conheceu um sapo!
