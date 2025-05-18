@@ -1,0 +1,11 @@
+* - Está no arquivo de comandos
+
+			AULA 1 - Controle de versionamento e Git
+			AULA 2 - Branches e Merge
+			AULA 3 - GitHub
+			AULA 4 - Gitflow
+			AULA 5 - Gitflow na prática
+			AULA 6 - GitHub Issues e Pull Requests
+			AULA 7 - Resolução de conflitos
+			AULA 8 - Git clone e git ignore
+			AULA 9 - Voltando no tempo com Git

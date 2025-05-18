@@ -1,0 +1,17 @@
+			COMANDOS APRESENTADOS NAS AULAS DE GIT\GITHUB
+
+- git init = inicia um repositório git para monitorar o projeto
+
+- git status = mostra o status
+
+- git add .nome_do_arquivo = adiciona o arquivo para poder fazer o commit dele
+
+- git add . = adiciona todos os arquivos da pasta
+
+- clear = limpa o terminal
+
+- git commit -m "nome_do_commit" = cria um commit
+
+- git log = lista todos os últimos commits que tivemos
+
+- 
