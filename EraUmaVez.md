@@ -3,6 +3,9 @@ Era uma vez uma canguru chamada Sally que morava perto de uma árvore muito anti
 
 # rodada 2
 
-Certo dia Sally saiu dar uma volta e encontrou um ser verde e pequeno, descobriu seu amigo Frog o sapo. E ele estava com problemas. Pois a lagoa que ele costumava ficar está muito seca por conta da falta de chuva e ele sente falta de ficar lá com seus amigos, entao Sally decide ajudar ele.
+Sally acordou em sua árvore e estranhou o silêncio no bosque, onde antes havia festa e canto.
+Desceu entre as raízes em busca de respostas, sentindo o ar mais frio e parado que o normal.
+Na clareira, encontrou um círculo de pedras brilhando e uma voz sussurrando: "Hoje, o bosque repousa."
+Sally então se sentou em silêncio, ouvindo pela primeira vez o coração da floresta bater.
 
 # rodada 3
