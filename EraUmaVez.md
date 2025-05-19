@@ -8,3 +8,9 @@ Um dia, após uma ótima noite de sono, Sally acordou e, para sua surpresa, o bo
 O sapo, chamado Belchior, era uma criatura estranha para Sally, mas ela logo percebeu que tinham suas semelhanças. Após conhecê-lo melhor, ele se aproximou de Sally amigavelmente e a disse: "você não pertence a este bosque, Sally. Arrume suas malas, pois eu vou te levar para o vale mágico dos animais saltitantes!" 
 Sally estranhou e logo se recusou, disse a ele que foi criada no bosque encantado, e que lá se sente em casa, mas Belchior insiste: "Por que você acha que não há animais como você por aqui? Você já conheceu outro canguru em sua vida? O bosque encantado pertence aos animais voadores e\ou que moram em árvores, como esquilos e borboletas. Venha comigo para conhecer o lugar perfeito para você, vou te apresentar para todos os outros animais saltitantes, como grilos, coelhos, sapos e, obviamente, cangurus!"
 Sally ficou perplexa com a promessa do sábio sapo e, sendo curiosa e aventureira como sempre, decidiu aceitar a oferta. Sally foi à sua árvore, arrumou suas malas e saiu para uma nova aventura!.
+
+### rodada 4
+Sally e Belchior iniciaram a jornada logo ao amanhecer. Conforme pulavam entre trilhas floridas e riachos cintilantes, a paisagem começava a mudar: o ar ficava mais leve, e o chão, mais macio — ideal para saltos longos. De repente, em meio a uma colina coberta de margaridas, Sally ouviu uma voz suave chamando seu nome. Pararam para escutar. A voz vinha de dentro de uma pequena caverna oculta por trepadeiras douradas. Curiosa, como sempre, Sally se aproximou com cuidado. Lá dentro, encontrou um baú antigo e misterioso, coberto de musgo e com o símbolo de um canguru esculpido na madeira. Sally olhou para Belchior, que sorriu calmamente e disse:
+"Talvez o vale mágico já saiba que você está chegando."
+
+E assim, com o coração cheio de alegria e esperança, Sally soube que havia feito a escolha certa.
